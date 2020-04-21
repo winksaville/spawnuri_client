@@ -1,4 +1,4 @@
-# spwawnuri-example
+# spawnuri_client
 
 The goal is to create a command-line application that will
 be launched by another application using Isolate:spawnUri.
